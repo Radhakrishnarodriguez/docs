@@ -1,4 +1,4 @@
----
+Com.bluemars.appPinocio---
 title: Setting up and managing your GitHub profile
 shortTitle: Profiles
 redirect_from:
